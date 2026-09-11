@@ -9,7 +9,7 @@ Software Engineer building production-grade full-stack and AI-powered applicatio
 ## 🚀 About Me
 - 💼 Software Engineer @ **Afterquery** — designing scalable backend systems and RESTful APIs
 - 🤖 AI Trainer @ **Outlier.ai** — evaluating and refining LLM outputs for reasoning, coding, and instruction adherence
-- 🏗️ 2+ years building AI-powered full-stack applications (React, Node.js, FastAPI, MongoDB, PostgreSQL, AWS)
+- 🏗️ 1+ years building AI-powered full-stack applications (React, Node.js, FastAPI, MongoDB, PostgreSQL, AWS)
 - 🧠 Hands-on with Agentic AI, RAG pipelines, and LLM integration (OpenAI, Claude, Gemini APIs)
 - ⚡ 800+ DSA problems solved | strong in Java, C/C++, DBMS, OOPs, and Low-Level Design
 - 🌱 Currently deepening my knowledge of container orchestration (Docker/K8s) and system design at scale
@@ -24,7 +24,7 @@ Designing and developing scalable backend systems, RESTful APIs, and server-side
 **AI Trainer** — Outlier.ai *(Sep 2025 – Present)*
 Evaluating and ranking AI-generated code and text for accuracy, coherence, and reasoning quality. Writing and refining prompts to stress-test model capabilities, and surfacing failure patterns to guide RLHF training pipelines.
 
-**AI Full-Stack Developer** — Creative Business Labs Pvt. Ltd. *(Jun 2023 – Jul 2025)*
+**AI Full-Stack Developer** — Creative Business Labs Pvt. Ltd. *(Jun 2024 – Jul 2025)*
 Built and deployed production AI-powered applications — LLM agents, Agentic RAG pipelines, and Generative AI tools — integrating OpenAI, Claude, and Gemini APIs with vector search and workflow automation, on a stack of React, Node.js, FastAPI, MongoDB, and AWS.
 
 ## 🛠 Languages and Tools
